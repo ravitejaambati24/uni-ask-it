@@ -75,7 +75,7 @@ const Index = () => {
         <div className="relative container mx-auto px-4 py-24 text-center">
           <div className="max-w-4xl mx-auto">
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 tracking-tight">
-              Smart Campus Assistant
+              Your Campus Assistant
             </h1>
             <p className="text-xl md:text-2xl text-white/90 mb-8 leading-relaxed">
               Your AI-powered guide to campus life. Get instant answers about schedules, facilities, dining, and more.

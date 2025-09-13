@@ -22,7 +22,7 @@ export const ChatInterface = ({ isOpen, onClose }: ChatInterfaceProps) => {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: '1',
-      content: "Hello! I'm your Smart Campus Assistant. I can help you with information about schedules, facilities, dining, library services, and administrative procedures. What would you like to know?",
+      content: "Hello! I'm your Campus Assistant. I can help you with information about schedules, facilities, dining, library services, and administrative procedures. What would you like to know?",
       sender: 'assistant',
       timestamp: new Date()
     }
